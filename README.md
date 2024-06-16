@@ -30,7 +30,7 @@ I'm a passionate [Software developer/Full stack developer] with a focus on [deve
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats] ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhiteshGiri&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhiteshGiri&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiteshGiri&layout=compact&theme=radical)
 
 ## 📫 Contact Me
