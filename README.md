@@ -48,7 +48,7 @@ const abhitesh = {
 
 ### 💬 **Ask me about:** Web Development | Data Structures | Full Stack Architecture
 
-### 📧 **Contact:** [abhiteshgiri325@gmail.com](mailto:abhiteshgiri325@gmail.com)
+### 📧 **Contact:** [abhiteshgiri325@gmail.com]([mailto:abhiteshgiri325@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRrkzVhWhqTRhkhSKdFSnxVZLqwgNlxkPpkQXVtPqdsqbXNpQWFvpKLTZdgHpKZVxndDXDB))
 
 ### 😄 **Pronouns:** He/Him
 
@@ -86,7 +86,7 @@ const abhitesh = {
 <h3 align="center">🏥 Apna Assistant</h3>
 
 <div align="center">
-<a href="https://github.com/AbhiteshGiri/Apna-Assistant">
+<a href="https://abhiteshgiri.github.io/Apna-Assistant/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiteshGiri&repo=Apna-Assistant&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=D4AF37&icon_color=FFD700" alt="Apna Assistant" />
 </a>
 </div>
@@ -106,7 +106,7 @@ const abhitesh = {
 <h3 align="center">🚗 E-Park Gateway</h3>
 
 <div align="center">
-<a href="https://github.com/AbhiteshGiri/E-Park-Gateway">
+<a href="https://abhiteshgiri.github.io/E-Park-Gateway/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiteshGiri&repo=E-Park-Gateway&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=D4AF37&icon_color=FFD700" alt="E-Park Gateway" />
 </a>
 </div>
