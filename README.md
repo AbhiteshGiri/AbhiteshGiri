@@ -69,7 +69,7 @@ const abhitesh = {
 <h3 align="center">💎 Shiv Shakti Jewellers</h3>
 
 <div align="center">  
-<a href="https://github.com/AbhiteshGiri/Jewels-Website">
+<a href="https://abhiteshgiri.github.io/Jewels-Website/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiteshGiri&repo=Jewels-Website&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=D4AF37&icon_color=FFD700" alt="Shiv Shakti Jewellers" />
 </a>
 </div>
@@ -123,7 +123,7 @@ const abhitesh = {
 <h3 align="center">🌐 Portfolio Website</h3>
 
 <div align="center">
-<a href="https://github.com/AbhiteshGiri/portfolio">
+<a href="https://abhiteshgiri.github.io/portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiteshGiri&repo=portfolio&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=D4AF37&icon_color=FFD700" alt="Portfolio" />
 </a>
 </div>
