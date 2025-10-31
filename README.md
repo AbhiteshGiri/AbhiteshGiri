@@ -69,8 +69,8 @@ const abhitesh = {
 <h3 align="center">💎 Shiv Shakti Jewellers</h3>
 
 <div align="center">  
-<a href="https://github.com/AbhiteshGiri/shiv-shakti-jewellers">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiteshGiri&repo=shiv-shakti-jewellers&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=D4AF37&icon_color=FFD700" alt="Shiv Shakti Jewellers" />
+<a href="https://github.com/AbhiteshGiri/Jewels-Website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiteshGiri&repo=Jewels-Website&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=D4AF37&icon_color=FFD700" alt="Shiv Shakti Jewellers" />
 </a>
 </div>
 
@@ -83,11 +83,11 @@ const abhitesh = {
 </td>
 <td width="50%">
 
-<h3 align="center">🏥 Lok Seva Dost</h3>
+<h3 align="center">🏥 Apna Assistant</h3>
 
 <div align="center">
-<a href="https://github.com/AbhiteshGiri/lok-seva-dost">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiteshGiri&repo=lok-seva-dost&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=D4AF37&icon_color=FFD700" alt="Lok Seva Dost" />
+<a href="https://github.com/AbhiteshGiri/Apna-Assistant">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiteshGiri&repo=Apna-Assistant&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=D4AF37&icon_color=FFD700" alt="Apna Assistant" />
 </a>
 </div>
 
@@ -103,19 +103,19 @@ const abhitesh = {
 <tr>
 <td width="50%">
 
-<h3 align="center">📝 Resume Builder</h3>
+<h3 align="center">🚗 E-Park Gateway</h3>
 
 <div align="center">
-<a href="https://github.com/AbhiteshGiri/resume-builder">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiteshGiri&repo=resume-builder&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=D4AF37&icon_color=FFD700" alt="Resume Builder" />
+<a href="https://github.com/AbhiteshGiri/E-Park-Gateway">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiteshGiri&repo=E-Park-Gateway&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=D4AF37&icon_color=FFD700" alt="E-Park Gateway" />
 </a>
 </div>
 
 **Tech Stack:**
-- React.js Frontend
-- PDF Generation
-- Multiple Templates
-- Export Functionality
+- Smart Parking Management
+- Real-time Slot Tracking
+- Payment Integration
+- User Dashboard
 
 </td>
 <td width="50%">
@@ -123,8 +123,8 @@ const abhitesh = {
 <h3 align="center">🌐 Portfolio Website</h3>
 
 <div align="center">
-<a href="https://github.com/AbhiteshGiri/Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiteshGiri&repo=Portfolio&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=D4AF37&icon_color=FFD700" alt="Portfolio" />
+<a href="https://github.com/AbhiteshGiri/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiteshGiri&repo=portfolio&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=D4AF37&icon_color=FFD700" alt="Portfolio" />
 </a>
 </div>
 
